@@ -1,4 +1,5 @@
 # ToyStory
+![alt text](ToyStory.jpg "ToyStory")
 Промежуточная аттестация
  
 Информация о проекте
